@@ -1,0 +1,103 @@
+{
+  "contacts": [
+    {
+      "id": "871229bd-2f55-404b-8d13-9bcf6379c795",
+      "name": "Ashwin",
+      "phone": "78475*****",
+      "email": "ashwin@gmail.com",
+      "team": "Head",
+      "position": "Head",
+      "dept": "HR"
+    },
+    {
+      "id": "e7ae96de-d307-4717-a209-f32ad689d0a1",
+      "name": "Atchaya Sruthi",
+      "phone": "85479*****",
+      "email": "atchayasruthi@outlook.com",
+      "team": "Head",
+      "position": "Head",
+      "dept": "Engineering"
+    },
+    {
+      "name": "Jay",
+      "id": "c37179a2-5a9f-4686-b7d7-9a15d83a309b",
+      "phone": "85879*****",
+      "email": "jai@gmail.com",
+      "team": "Head",
+      "position": "Head",
+      "dept": "Design"
+    },
+    {
+      "id": "a13f22b2-2480-43bc-882c-d239ea63835a",
+      "name": "Vincy",
+      "phone": "98744*****",
+      "email": "vincy@outlook.com",
+      "team": "1",
+      "position": "Team Leader",
+      "dept": "HR"
+    },
+    {
+      "name": "Rajesh",
+      "id": "3cfd319b-61fc-4857-8460-537ef54ba08d",
+      "phone": "96325*****",
+      "email": "rajesh@outlook.com",
+      "team": "1",
+      "position": "Team Leader",
+      "dept": "Design"
+    },
+    {
+      "id": "234fdfd7-1b2f-47d5-a46d-e80b881bf9fe",
+      "name": "Karthick",
+      "phone": "85247*****",
+      "email": "karthick@hotmail.com",
+      "team": "2",
+      "position": "Team Leader",
+      "dept": "HR"
+    },
+    {
+      "id": "de701ac2-7731-4e5b-967c-7020e949eb68",
+      "name": "Senthil",
+      "phone": "98747*****",
+      "email": "senthil@outlook.com",
+      "team": "2",
+      "position": "Team Leader",
+      "dept": "Engineering"
+    },
+    {
+      "id": "a0811437-0b29-4e47-bc41-475fd1b3c5ca",
+      "name": "Mahesh",
+      "phone": "85285*****",
+      "email": "mahesh@gmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "HR"
+    },
+    {
+      "id": "c446c449-1a4e-44d1-8891-132f7035b6f8",
+      "name": "Jeevan",
+      "phone": "98778*****",
+      "email": "jeevan@gmail.com",
+      "team": "2",
+      "position": "Team member",
+      "dept": "HR"
+    },
+    {
+      "id": "e406a7cc-ad1d-479e-a1d3-4045a13b8c03",
+      "name": "Balaji",
+      "phone": "78458*****",
+      "email": "balaji@hotmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Engineering"
+    },
+    {
+      "id": "dfaee54c-49d0-4f8a-8640-f5c8568f4c65",
+      "name": "Nithish Kumar",
+      "phone": "87549*****",
+      "email": "nithish@gmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Design"
+    }
+  ]
+}

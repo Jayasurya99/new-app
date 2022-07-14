@@ -1,0 +1,148 @@
+{
+  "contacts": [
+    {
+      "id": "81d36ddc-b84a-46d2-98ca-e2117e2ee302",
+      "name": "Arun Kumar",
+      "phone": "94512*****",
+      "email": "Arun@gmail.com",
+      "team": "Head",
+      "position": "Head",
+      "dept": "HR"
+    },
+    {
+      "id": "7a413c30-8f9b-4f1f-860d-ff0dfd7483bd",
+      "name": "Atchaya Sruthi",
+      "phone": "85246*****",
+      "email": "atchayasruthi@hotmail.com",
+      "team": "Head",
+      "position": "Head",
+      "dept": "Engineering"
+    },
+    {
+      "id": "f143fe05-bdc3-42bd-821c-e29d1d192dea",
+      "name": "Jay",
+      "phone": "78954*****",
+      "email": "jay@outlook.com",
+      "team": "Head",
+      "position": "Head",
+      "dept": "Design"
+    },
+    {
+      "id": "c824903d-84d7-484b-b0f3-cf1efdee6595",
+      "name": "Boobendar",
+      "phone": "98451*****",
+      "email": "Boobendar@gmail.com",
+      "team": "1",
+      "position": "Team Leader",
+      "dept": "HR"
+    },
+    {
+      "id": "26f096ae-795b-46d4-84ba-aa3f14406480",
+      "name": "Jaya Prakash",
+      "phone": "98745*****",
+      "email": "jayaprakash@gmai.com",
+      "team": "2",
+      "position": "Team Leader",
+      "dept": "HR"
+    },
+    {
+      "id": "2af4d6bd-b304-4e7b-aee8-6f10d3f798c2",
+      "name": "Manik",
+      "phone": "85297*****",
+      "email": "manik@hotmail.com",
+      "team": "1",
+      "position": "Team Member",
+      "dept": "HR"
+    },
+    {
+      "id": "efa8252e-58dd-4160-89dd-36fc25f08aae",
+      "name": "Priya",
+      "phone": "85209*****",
+      "email": "Priya@gmai.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "HR"
+    },
+    {
+      "id": "e6972454-44a1-4da7-9d08-053b1293e447",
+      "name": "Santhosh Kumar",
+      "phone": "98764*****",
+      "email": "santhosh@outlook.com",
+      "team": "2",
+      "position": "Team member",
+      "dept": "HR"
+    },
+    {
+      "id": "ef4651cc-8ed4-4172-9124-05a7e5251440",
+      "name": "Jeevan Ebi",
+      "phone": "78459*****",
+      "email": "jeevan@gmail.com",
+      "team": "1",
+      "position": "Team Leader",
+      "dept": "Engineering"
+    },
+    {
+      "id": "e1e2b6be-0caa-488e-b916-da3a6bf74959",
+      "name": "Gayathri",
+      "phone": "98745******",
+      "email": "gayathri@gmai.com",
+      "team": "1",
+      "position": "Team Leader",
+      "dept": "Design"
+    },
+    {
+      "id": "20f282d3-c521-4434-96c4-eaa9e86501cb",
+      "name": "Surya",
+      "phone": "98745*****",
+      "email": "surya@gmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Design"
+    },
+    {
+      "id": "292a56c3-ca02-4bd7-9d3f-66fa5301d6bc",
+      "name": "Stephen Raj",
+      "phone": "98567*****",
+      "email": "stephen@outlook.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Engineering"
+    },
+    {
+      "id": "e02f4900-5ad3-48a9-9bd3-d3d962d05b5d",
+      "name": "Sharuk",
+      "phone": "97645*****",
+      "email": "sharuk@gmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Design"
+    },
+    {
+      "name": "Sarah",
+      "id": "ed70baa0-e45e-49d4-88d3-3e044de9ee19",
+      "phone": "85279*****",
+      "email": "sarah@hotmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Engineering"
+    },
+    {
+      "id": "a8982c2e-3c80-4e3e-b30f-41157b27976c",
+      "name": "Nithish Kumar",
+      "phone": "85274*****",
+      "email": "nithish@hotmail.com",
+      "team": "2",
+      "position": "Team member",
+      "dept": "HR"
+    },
+    {
+      "id": "d6d7a87f-d84b-42df-a982-54dddfbaeb49",
+      "name": "Sai",
+      "phone": "78945*****",
+      "email": "sai@gmail.com",
+      "team": "1",
+      "position": "Team member",
+      "dept": "Design"
+    }
+  ]
+}
